@@ -15,4 +15,4 @@ print("secret party in the second branch")
 
 print("only party animals allowed")
 
-print("I bought the Mario Kart: Double Dash!")
+print("I bought the Mario Kart: Double Dash with 4 controllers!")
