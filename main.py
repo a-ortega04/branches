@@ -17,4 +17,4 @@ print("only party animals allowed")
 
 print("I bought the Mario Kart: Double Dash!")
 
-print("This the V party")
+print("This the Mario Party 7 game!")
