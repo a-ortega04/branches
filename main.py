@@ -16,3 +16,5 @@ print("Secret party in the second branch.")
 print("Only party animals allowed.")
 
 print("I bought the Mario Kart: Double Dash with 4 controllers!")
+
+print("I brought Mario Party 7 too!") 
