@@ -18,3 +18,5 @@ print(" electro music rules")
 print("let Junito cook cause he makes the best hamburgers") 
 
 print("ivan likes parties")
+
+print("alberto does not drink more than 2 shots of tequila") 
