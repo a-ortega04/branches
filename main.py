@@ -16,3 +16,5 @@ print("i like women like my tea, hot")
 print(" electro music rules")
 
 print("let Junito cook cause he makes the best hamburgers") 
+
+print("ivan likes parties")
